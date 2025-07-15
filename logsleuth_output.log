@@ -1,0 +1,8 @@
+2025-07-15 19:22:03.899602 [!] Failed login attempt by 'wronguser' from IP 127.0.0.1
+2025-07-15 19:22:03.900077 [!] Failed login attempt by 'wronguser' from IP 127.0.0.1
+2025-07-15 19:22:03.900345 [!] Failed login attempt by 'wronguser' from IP 127.0.0.1
+2025-07-15 19:22:03.900568 [!] Failed login attempt by 'wronguser' from IP 127.0.0.1
+2025-07-15 19:22:03.903170 [!] Failed login attempt by 'wronguser' from IP 127.0.0.1
+2025-07-15 19:22:03.903512 [!] Failed login attempt by 'wronguser' from IP 127.0.0.1
+2025-07-15 19:22:03.904151 IP 127.0.0.1 had 6 failed attempt(s)
+2025-07-15 19:22:03.904756 IP 127.0.0.1 has 6 failed attempts - possible brute-force attack!
